@@ -14,7 +14,13 @@ int main(){
             cout<<ch;
         }
 
-        for(int k=0; k<i; k++){
+        // for(int k=0; k<i; k++){
+        //     ch--;
+        //     cout<<ch;
+        // }
+
+
+        while(ch>'A'){
             ch--;
             cout<<ch;
         }
